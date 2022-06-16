@@ -8,7 +8,7 @@
 let alertB = generateBombs(5, 1, 100)
 alert(alertB)
 
-const clock = setTimeout(AskNumber,3000);
+const clock = setTimeout(AskNumber,30000);
 
 function AskNumber(){
     const userScore = [];
